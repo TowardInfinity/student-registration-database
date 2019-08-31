@@ -1,7 +1,7 @@
 # student-registration-database
 Spring Boot RESTful CRUD Example with MySQL Database
 
-A Spring Boot application that connects with our external MySQL database, consume and produce the JSON data and performs the following operations:
+A Spring Boot application that connects with external MySQL database, consume and produce the JSON data and performs the following operations:
 
 * Save the user submitted data into the database.
 * Fetch all user submitted data from the database
