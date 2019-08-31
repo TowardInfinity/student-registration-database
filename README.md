@@ -8,3 +8,7 @@ A Spring Boot application that connects with our external MySQL database, consum
 * Fetch particular data from the database by a given ID.
 * Update existing data.
 * And delete a record from the database.
+
+## Database schema
+
+![Database Schema](Database_Schema.png)
