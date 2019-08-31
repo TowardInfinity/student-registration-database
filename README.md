@@ -1,5 +1,5 @@
 # student-registration-database
-Spring Boot RESTful CRUD Example with MySQL Database
+Spring Boot RESTful CRUD with MySQL Database
 
 A Spring Boot application that connects with external MySQL database, consume and produce the JSON data and performs the following operations:
 
